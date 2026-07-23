@@ -1,3 +1,4 @@
 # TOU Public IP Block List
 
-test.com
+0.0.0.0 cnn.com
+bbc.com
